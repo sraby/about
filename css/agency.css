@@ -41,6 +41,13 @@ section {
     text-transform: none;
     font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
+@media (max-width: 768px) {
+  section h3.section-subheading {
+        margin-left: 5%;
+        margin-right: 5%;
+  }
+}
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0; } }

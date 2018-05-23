@@ -25,6 +25,12 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
 
+.headshot {
+  width: 250px;
+  border-radius: 100%;
+  margin-bottom: 30px;
+}
+
 section {
   padding: 100px 0; }
   section h2.section-heading {
